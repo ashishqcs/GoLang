@@ -1,0 +1,54 @@
+{
+    "movies": [
+        {
+            "id": "tt0068646",
+            "title": "The Godfather",
+            "released": "24 Mar 1972",
+            "genre": "Crime, Drama",
+            "actors": "Marlon Brando, Al Pacino, James Caan",
+            "year": 1972,
+            "price": 20,
+            "quantity": 10
+        },
+        {
+            "id": "tt0111161",
+            "title": "The Shawshank Redemption",
+            "released": "14 Oct 1994",
+            "genre": "Drama",
+            "actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
+            "year": 1994,
+            "price": 15,
+            "quantity": 4
+        },
+        {
+            "id": "tt0120338",
+            "title": "Titanic",
+            "released": "19 Dec 1997",
+            "genre": "Drama, Romance",
+            "actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane",
+            "year": 1997,
+            "price": 10,
+            "quantity": 7
+        },
+        {
+            "id": "tt0172495",
+            "title": "Gladiator",
+            "released": "05 May 2000",
+            "genre": "Action, Adventure, Drama",
+            "actors": "Russell Crowe, Joaquin Phoenix, Connie Nielsen",
+            "year": 2000,
+            "price": 20,
+            "quantity": 8
+        },
+        {
+            "id": "tt0107290",
+            "title": "Jurassic Park",
+            "released": "11 Jun 1993",
+            "genre": "Action, Adventure, Sci-Fi",
+            "actors": "Sam Neill, Laura Dern, Jeff Goldblum",
+            "year": 1993,
+            "price": 20,
+            "quantity": 2
+        }
+    ]
+}

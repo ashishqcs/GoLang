@@ -1,0 +1,7 @@
+initfile:
+  path: "movies.json"
+dbconfig:
+  driver: "postgres"
+  connstr: "postgres://user:password@localhost:5432/movie_db?sslmode=disable"
+serverconfig:
+  address: 0.0.0.0:8080
