@@ -1,0 +1,27 @@
+The objective of this problem is to demonstrate and deep-dive into golang with hands-on experience.
+The problem statement can touchbase following aspects when practised under metored environment
+
+
+Part 1 - Introduction
+It's March end and Ram has to submit his internet expenses for entire year. He calls his Shabby internet provider and requests for his internet bills for this financial year(April till March).
+🕒
+🕒
+🕒
+🕒
+Time flies!
+It's March 31, and it's only few hours before he can submit his internet bills, and yet there is no word from the Shabby Internet Provider.
+Ram being Ram, meanwhile figures out there is an unsecured open endpoint leaking all the user's bills.
+Now ofcourse Ram being non-technical, needs help from someone like you who is an ethical hacker to come to his rescue. The bill will be a CSV file.
+
+Supporting contents
+Docker Image of internet provider
+docker pull niksw7/shabby-internet-provider:v1
+docker run -p 8080:8080 niksw7/shabby-internet-provider:v1 
+
+Sample CSV response
+id,name,address,plan-name,phone,date,amount
+1900,Shilpa,Kolkata,SuperSaver,01-02-2022,86
+
+
+Open Endpoint Details: 
+http://localhost:8080/internet-bills/v1/{validBillID}

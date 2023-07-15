@@ -1,0 +1,18 @@
+version: '3.1'
+services:
+  shabby-internet-provider:
+    image: "niksw7/shabby-internet-provider:v1"
+    container_name: shabby-internet-provider
+    restart: always
+    ports:
+      - 8080:8080
+  postgres:
+    image: "postgres:13.4"
+    container_name: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: internet_bills
+    ports:
+      - 5432:5432
