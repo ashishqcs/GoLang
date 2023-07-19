@@ -1,0 +1,26 @@
+Packages in golang
+Section 2 of https://www.udemy.com/course/go-the-complete-developers-guide/learn/lecture/7797244#overview
+Variables/Functions/Methods/Slices/ErrorHandling
+Section 3 of https://www.udemy.com/course/go-the-complete-developers-guide/learn/lecture/7797262#overview
+Structs/Pointers/Receivers
+Section 4 of https://www.udemy.com/course/go-the-complete-developers-guide/learn/lecture/7797262#overview
+Maps
+Section 5 of https://www.udemy.com/course/go-the-complete-developers-guide/learn/lecture/7797262#overview
+defer functions
+https://youtu.be/U73hN4_6b_E
+Interfaces
+Section 6 of https://www.udemy.com/course/go-the-complete-developers-guide/learn/lecture/7797374#overview
+gomock framework
+https://www.youtube.com/watch?v=FoMMbZJmg6o&t=1632s
+Dependency injection
+Concurrency(channels, go-routines)
+https://www.udemy.com/course/concurrency-in-go-golang/
+Usage of Vendor folder
+https://www.youtube.com/watch?v=_HIM24JZoUs
+https://www.youtube.com/watch?v=UX4XjxWcDB4
+Context
+https://www.youtube.com/watch?v=kaZOXRqFPCw
+Databases
+Sqlx https://www.youtube.com/watch?v=-aRJfl44mQc
+Databases - Section 1 of https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/
+Gin framework - Section 2 of https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/
