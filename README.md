@@ -1,2 +1,2 @@
 # GoLang
-This Directory contains few experimental services / progams for learning go-lang
+This Directory contains few experimental services / progams for learning golang
